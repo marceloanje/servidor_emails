@@ -57,7 +57,7 @@ Certifique-se de ter os seguintes requisitos instalados no seu sistema:
 4. **Exucução**       
    Após a compilação bem-sucedida, execute o programa.
    ```bash
-   run.out diretório_do_arquivo_de_entrada
+   run.out diretorio-do-arquivo-de-entrada
    ```
 
 ---
